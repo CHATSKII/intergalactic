@@ -1,3 +1,9 @@
+## [11.2.1] - 2022-04-29
+
+### @semcore/data-table
+
+- **Fixed** Fixed package lost typings.
+
 ## [11.2.0] - 2022-04-26
 
 ### @semcore/animation
